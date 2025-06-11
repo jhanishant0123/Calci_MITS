@@ -103,8 +103,6 @@ This will create a `dist` folder with the production-ready files.
 5. Open a Pull Request
 
 
-## Live Demo
 
-[View Live Demo](https://your-calculator-app.lovable.app)
 
 
