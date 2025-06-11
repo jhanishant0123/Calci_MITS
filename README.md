@@ -102,20 +102,9 @@ This will create a `dist` folder with the production-ready files.
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Built with [Lovable](https://lovable.dev) - AI-powered web development platform
-- Icons by [Lucide](https://lucide.dev)
-- Styled with [Tailwind CSS](https://tailwindcss.com)
 
 ## Live Demo
 
 [View Live Demo](https://your-calculator-app.lovable.app)
 
----
 
-Made with ❤️ using Lovable
